@@ -50,6 +50,6 @@ I am Experienced .NET Developer with hands on experience in developing Windows A
 
 ## Contact
 
-- **Email:** [mailto:sumeetarbiter117@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/dayfob](https://www.linkedin.com/in/sumeetpatil-k/]
-- **GitHub:** [https://github.com/SgtApone117]
+- **Email:** [sumeetarbiter117@gmail.com](mailto:sumeetarbiter117@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/sumeetpatil-k/](https://www.linkedin.com/in/sumeetpatil-k/)
+- **GitHub:** [https://github.com/SgtApone117](https://github.com/SgtApone117)
