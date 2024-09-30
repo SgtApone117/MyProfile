@@ -11,7 +11,7 @@ I am Experienced .NET Developer with hands on experience in developing Windows A
 
 - **Languages:** C/C++/C#, PHP, JavaScript, HTML/CSS
 - **Frameworks:** React, .NET, ASP.NET, WPF
-- **Developer Tools:** Git, Docker, etBrains IDEs, Visual Studio, VS Code, Postman
+- **Developer Tools:** Git, Docker, JetBrains IDEs, Visual Studio, VS Code, Postman
 
 ## Projects
 
